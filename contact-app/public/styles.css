@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+    margin-top: 20%;
+  }
+  
+  .buttons {
+    margin-top: 10px;
+  }
+  
+  .button {
+    color: #fff;
+    background-color: #46139f;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+  }
+  
